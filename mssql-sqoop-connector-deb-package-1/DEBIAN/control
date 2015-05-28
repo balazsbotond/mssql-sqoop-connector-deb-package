@@ -1,0 +1,9 @@
+Package: mssql-sqoop-connector
+Version: 0.0.1-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: sqoop_1.4.6-1
+Maintainer: Botond Balazs <balazsbotond@gmail.com>
+Description: MSSQL connector for sqoop command-line application 1.4.6
+ MSSQL connector for Sqoop: sqljdbc4.
